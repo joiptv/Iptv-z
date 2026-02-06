@@ -16,54 +16,6 @@
     "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
   },
   {
-    "logo": "https://img.media.jio.com/imagespublic/58/36/301543_1696231657740_l_high.jpg",
-    "name": "Colors HD",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/imagespublic/50/8/301797_1725603120083_l_high.jpg",
-    "name": "Colors Rishtey",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rishtey_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "190829c4e2b05b8ca547d2cd30ab3bba:a28225e91492ce2d6601874c701bf9bd",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/imagespublic/60/76/301384_1683104125728_l_high.jpg",
-    "name": "Colors Cineplex Superhits",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rishtey_Cineplex_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "234f3bf300e75c93a3825d54b1c0520b:53a4b6981fb1872c0ad4d197066e8c1f",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/imagespublic/2/73/301385_1683104330011_l_high.jpg",
-    "name": "Colors Cineplex HD",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "bc74a4c7b66856f19ce77fffecd18590:5532bd5f660547d3b82992f1ef471d6a",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/imagespublic/26/56/301024_1619522312668_l_high.jpg",
-    "name": "Colors Cineplex Bollywood",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_Bollywood_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "061b3f55b6695e978b208f5117e609ee:9a6da304db8cfb545805d3152a5d66ed",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/84/38/301978_1749652834239_l_high.jpg",
-    "name": "Star Maa Movies HD",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
     "logo": "https://img.media.jio.com/tvpimages/57/79/301980_1753202724101_l_high.jpg",
     "name": "Star Movies HD",
     "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd",
