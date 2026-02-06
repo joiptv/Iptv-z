@@ -32,22 +32,6 @@
     "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
   },
   {
-    "logo": "https://img.media.jio.com/tvpimages/39/9/301985_1749652884224_l_high.jpg",
-    "name": "Star Maa Movies",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "6dff9a2c741754c1b75312c53bc83d92:b75a65f46065ee70de75a88fed692846",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/61/7/301986_1749652712205_l_high.jpg",
-    "name": "Star Maa HD",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
     "logo": "https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_high.jpg",
     "name": "Star Sports Select 2",
     "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/output/index.mpd",
@@ -64,22 +48,6 @@
     "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
   },
   {
-    "logo": "https://img.media.jio.com/tvpimages/58/46/301992_1753203395835_l_high.jpg",
-    "name": "Jalsha Movies",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsha_Movies_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "daf92269ed005673b69f9ea829c21b07:6b1bf96f1aceb5a195eda6a20e3af37f",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/11/37/301993_1753188280006_l_high.jpg",
-    "name": "Star Sports 2 Kannada",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
     "logo": "https://img.media.jio.com/tvpimages/13/82/301994_1753199406885_l_high.jpg",
     "name": "Star Sports Select 1",
     "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/output/index.mpd",
@@ -88,91 +56,11 @@
     "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
   },
   {
-    "logo": "https://img.media.jio.com/tvpimages/80/40/301996_1753183284182_l_high.jpg",
-    "name": "Star Maa Music",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "80cfb1a6a4b251dd9b9ae92782a35917:b4cd88f5d71fe94993dd3476cdd63f33",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
     "logo": "https://img.media.jio.com/tvpimages/33/63/301997_1753204388486_l_high.jpg",
     "name": "Vijay Super",
     "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/output/index.mpd",
     "drmScheme": "clearkey",
     "drmLicense": "737e9cc83a8a5a55a002fa3ca457244c:a0285e3041ff5f4efae5361e12f759db",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/92/8/302001_1753187715915_l_high.jpg",
-    "name": "Star Maa Gold",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "516d26778a21587484208637d89ff773:77599313595e70e5903151b0592ffa15",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/80/33/302059_1753185674474_l_high.jpg",
-    "name": "OM TV",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/OM_TV_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "e422cbcf1ea4503ea34f88c0a7968c54:6c5302033440acff24231ff13ac1fbcb",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/20/80/302060_1753182026075_l_high.jpg",
-    "name": "Soochna India",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Soochna_India_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "7388be4e858250faae2ba12d0fab4281:bc918a03fd9dd82cbb3431cf4afd8f31",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/3/3/302061_1753181686770_l_high.jpg",
-    "name": "Mahua Play",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mahua_Play_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "f711c2311a5650a59c6793b78946647f:efcbcdc539780b07d063c15a0f281ab6",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/0/56/302063_1753182950744_l_high.jpg",
-    "name": "VACC 24 News",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/VACC_24_News_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "2e820f5c8cc858cd97c9d8780427f9ac:8327e66c14c14890ad7b82d6c7a76757",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/12/79/302064_1753187863387_l_high.jpg",
-    "name": "Rozana Spokesman 24x7",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rozana_Spokesman_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "b774b3ee5dcd513f826ccc29e618cbc7:4dd0dfdab7af593ade29955451566c47",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/1/35/302071_1753185243638_l_high.jpg",
-    "name": "Disney",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/86/46/302072_1753187422934_l_high.jpg",
-    "name": "Hungama TV",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "454f8353caac500d95d641e0c7cfe048:0aaca46ea0f5096335598781fbe590e4",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/42/95/302074_1749651922595_l_high.jpg",
-    "name": "Disney Junior",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "1b1f9702f7d853c1b198495f64924311:40e11e60a12dd6c154dfea0ffbd5bda8",
     "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
   },
   {
@@ -189,30 +77,6 @@
     "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/output/index.mpd",
     "drmScheme": "clearkey",
     "drmLicense": "4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/49/37/302079_1753198865170_l_high.jpg",
-    "name": "Super Hungama",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "7a450f0820c4589690eb336c29f18da6:820e84119563b56d6e6f0bf514cbdc3c",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/87/78/302080_1753202974933_l_high.jpg",
-    "name": "Star Suvarna",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "fc71d871cbf45818a5b3eb3652d75387:added6a0df4d0eab8758b0ed9f54ecf2",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/82/94/302081_1753202838405_l_high.jpg",
-    "name": "Star Suvarna Plus",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "843e1658f5915fdda0a5ecc5bd3dd726:88f0fd96990a66b1307094eaf4998119",
     "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
   },
   {
@@ -237,22 +101,6 @@
     "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/output/index.mpd",
     "drmScheme": "clearkey",
     "drmLicense": "45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/80/61/302090_1753198757881_l_high.jpg",
-    "name": "Star Pravah",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "3fb941b7c6fe54fb8f66b19804eff952:c1b742ed7b6d4eca1c6bdcb9041d9b80",
-    "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
-  },
-  {
-    "logo": "https://img.media.jio.com/tvpimages/32/30/302091_1753204309224_l_high.jpg",
-    "name": "Star Pravah HD",
-    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/output/index.mpd",
-    "drmScheme": "clearkey",
-    "drmLicense": "ac5fe0f7b01659a9aba3475523f71ae1:b2e3f3af283a309e24eabe6b8681282e",
     "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
   },
   {
