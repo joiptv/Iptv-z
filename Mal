@@ -1,4 +1,4 @@
-
+[
   {
     "logo": "https://img.media.jio.com/tvpimages/47/31/302099_1753203208252_l_high.jpg",
     "name": "Asianet Movies",
@@ -14,4 +14,13 @@
     "drmScheme": "clearkey",
     "drmLicense": "6b68a5a175d45f0ba8ed12b3016ea4d8:c7b8ce1a3a24e2f9b4d1249d04155c49",
     "cookie": "__hdnea__=st=1770381811~exp=1770468211~acl=/*~hmac=5e127328cee5e057a7fcea7ccb189b51f314fe04cd0e6f18d2918e90fdb892d6"
+  },
+
+  {
+    "logo": "https://img.media.jio.com/tvpimages/47/31/302099_1753203208252_l_high.jpg",
+    "name": "Asianet Movies",
+    "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd",
+    "drmScheme": "clearkey",
+    "drmLicense": "ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6",
+    "cookie": "__hdnea__=st=1770641732~exp=1770728132~acl=/*~hmac=4a8ba65bedd4972c04679a6fede7cda13f64fd25a8629cb7eccfedffb2d7934a"
   },
