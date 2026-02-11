@@ -1,0 +1,39 @@
+{
+  "name": "iptv-z",
+  "version": "1.0.0",
+  "description": "IPTV Channel Viewer with Vercel Speed Insights",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joiptv/Iptv-z.git"
+  },
+  "keywords": [
+    "iptv",
+    "streaming",
+    "channels"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joiptv/Iptv-z/issues"
+  },
+  "homepage": "https://github.com/joiptv/Iptv-z#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.3.1",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  }
+}
